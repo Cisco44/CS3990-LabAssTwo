@@ -1,0 +1,66 @@
+
+/* Francisco Da Costa
+Student ID: 5026516
+Lab Assignment 2 - Tree Branches Unlimited
+*/
+
+
+.block
+{
+	border: 1px solid black;
+	border-left: 40px solid green;
+	margin: 1px 0px;
+	display: inline-block;
+	width: 90%;
+}
+
+.textblock
+{
+	display: inline-block;
+}
+
+#Banner
+{
+	display: initial;
+	width: 50%;
+	float: left;
+	margin-left: 5px;
+}
+
+#Branch
+{
+	width: 10.35%;
+	display: inline-block;
+	float: center;
+	
+}
+
+#Bristlecone
+{
+	width: 25%;
+	float: right;
+}
+
+nav
+{
+	background-color: orange;
+	text-align: justify;
+	white-space: normal;
+	width: 75%;
+	margin-left: 5px;
+	border: 1px solid black;
+	display: inline-block;
+	float: left;
+	
+}
+
+nav a
+{
+	padding: 10px;
+}
+
+p
+{
+	font-family: Georgia, serif;
+	font-weight: bold;
+}
